@@ -7,3 +7,4 @@ The future weather bar is scrollable horizontally.
 It also gives more information about the current weather, wind speed, pressure and 
  humidity of the area searched.
  It is limited to Kenyan cities and towns for searching.
+Included, is an APK file for Android which can be installed.
