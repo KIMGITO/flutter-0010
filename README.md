@@ -1,4 +1,4 @@
-# flutter-0010
+# flutter-002
 A weather application with flutter.
 It uses API from OpenWeatherMap 2.5 to get data on future weather within a span of 3 hours.
 It has a search bar input inside a beautiful card widget with a good visually appealing  look.
